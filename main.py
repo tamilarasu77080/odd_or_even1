@@ -1,4 +1,5 @@
 def odd_or_even():
+    #oddor even
     user = int(input("enter the number:"))
     if user%2==0:
         print("even number")
